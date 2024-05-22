@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tezos Address Converter</title>
+    <link rel="stylesheet" href="style.css">
+  
+  
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/crypto-js.min.js"></script>
+  
+     <script src="libs/bs58.js"></script>
+  
+  
+</head>
+<body>
+    <div class="container">
+        <div class="input-group">
+            <input type="text" id="keyHashInput" class="input-box" placeholder="Enter key hash here">
+        </div>
+        <div class="button-group">
+            <button id="convertButton" class="convert-button">Convert to tz1 address</button>
+        </div>
+        <div class="input-group">
+            <input type="text" id="resultOutput" class="input-box" placeholder="Result will be shown here" readonly>
+        </div>
+    </div>
+    <script src="sketch.js"></script>
+</body>
+</html>

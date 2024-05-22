@@ -1,0 +1,38 @@
+[
+  {
+    "name": "teia interactive templates",
+    "_id": "CkCu_2jb6",
+    "owner": {
+      "_id": "5bfacdc6b17206001f526f0d",
+      "username": "ktorn",
+      "id": "5bfacdc6b17206001f526f0d"
+    },
+    "description": "",
+    "slug": "teia_interactive_templates",
+    "items": [
+      {
+        "_id": "655d50270e7bb1001a51cdca",
+        "project": {
+          "name": "hicetnunc-html-p5js-teztokAPI-template",
+          "_id": "Kz__OsKBz",
+          "user": {
+            "_id": "5bfacdc6b17206001f526f0d",
+            "username": "ktorn",
+            "id": "5bfacdc6b17206001f526f0d"
+          },
+          "slug": "hicetnunc-html-p5js-hicdexAPI-template_copy",
+          "id": "Kz__OsKBz"
+        },
+        "createdAt": "2023-11-22T00:49:43.360Z",
+        "updatedAt": "2023-11-22T00:49:43.360Z",
+        "id": "655d50270e7bb1001a51cdca",
+        "projectId": "Kz__OsKBz",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2023-11-22T00:49:38.968Z",
+    "updatedAt": "2023-11-22T00:49:43.360Z",
+    "__v": 1,
+    "id": "CkCu_2jb6"
+  }
+]
